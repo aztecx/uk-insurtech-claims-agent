@@ -1,0 +1,12 @@
+.git
+.gitignore
+.vscode/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+README.md
+test_mcp_client.py
+docker-compose.yml
+Dockerfile.*
